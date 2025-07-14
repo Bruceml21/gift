@@ -1,0 +1,27 @@
+* {
+    max-width: 40rem;
+    margin: auto;
+}
+
+body {
+    background-image: url('https://previews.123rf.com/images/iunewind/iunewind1401/iunewind140100109/25193852-valentine-card-hearts-vector-illustration-background-vertical.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0;
+}
+
+main {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    display: grid;
+    padding-top: 210px;
+}
+
+input,
+button {
+    font-size: 1rem;
+    padding: 10px;
+    margin-top: 10px;
+}
